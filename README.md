@@ -78,14 +78,15 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/training_ex.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/training_ex.png"/></td>
         </tr>
     </tbody>
 </table>
 
 
 ### Test Result
-- Testset Distribution
+
+###### Testset Distribution
 <table>
     <thead>
         <tr>
@@ -94,7 +95,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/testset"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/testset"/></td>
         </tr>
     </tbody>
 </table>
@@ -141,23 +142,15 @@ For object detection in yolov5, it takes less than 1 second per page.
 |pants|7,637|*86.4%*|
 |hoody|675|*90.5%*|
 
-<table>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://github.com/hyunyongPark/KDeep_Recommendation/blob/main/img/performance_K500.PNG"/></td>
-        </tr>
-    </tbody>
-</table>
 
 - Example 
 <table>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex1.png"/></td>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex2.png"/></td>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex3.png"/></td>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex4.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/ex1.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/ex2.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/ex3.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/ex4.png"/></td>
         </tr>
     </tbody>
 </table>
