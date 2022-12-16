@@ -56,11 +56,18 @@ If you want to proceed with the new training, adjust the parameters and set the 
 The Training cmd is:
 ```
 
-python3 training-kdeep.py 
+python3 train.py 
 
 ```
 
 The testing cmd is: 
+```
+
+python3 test.py 
+
+```
+
+The inferance cmd is: 
 ```
 
 python3 detect.py 
