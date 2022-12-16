@@ -15,7 +15,7 @@ Some modifications have been made to fit the Kfashion dataset.
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/KDeep_Recommendation/blob/main/img/architecture.PNG"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/architecture.png"/></td>
         </tr>
     </tbody>
 </table>
@@ -78,7 +78,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/KDeep_Recommendation/blob/main/img/training_log.PNG"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/training_ex.png"/></td>
         </tr>
     </tbody>
 </table>
@@ -94,7 +94,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/KDeep_Recommendation/blob/main/img/performance_paper.PNG"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/testset"/></td>
         </tr>
     </tbody>
 </table>
@@ -152,14 +152,12 @@ For object detection in yolov5, it takes less than 1 second per page.
 
 - Example 
 <table>
-    <thead>
-        <tr>
-            <td>Detection Result</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/KDeep_Recommendation/blob/main/img/example1.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex1.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex2.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex3.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/ex4.png"/></td>
         </tr>
     </tbody>
 </table>
