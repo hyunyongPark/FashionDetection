@@ -95,7 +95,7 @@ At the time of learning, recall@10 was set to metric to update the validation re
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/testset.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/distribution.png"/></td>
         </tr>
     </tbody>
 </table>
