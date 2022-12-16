@@ -15,7 +15,7 @@ Some modifications have been made to fit the Kfashion dataset.
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/hyunyongPark/FashionDetection/tree/main/img/architecture.png"/></td>
+            <td><img src="https://github.com/hyunyongPark/FashionDetection/blob/main/img/architecture.png"/></td>
         </tr>
     </tbody>
 </table>
