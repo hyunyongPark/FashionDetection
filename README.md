@@ -24,19 +24,21 @@ Some modifications have been made to fit the Kfashion dataset.
 
 ### Requirements
 - python V  # python version : 3.8.13
-- dgl==0.9.1
-- tqdm
-- torch==1.9.1
-- torchvision==0.10.1
-- torchaudio==0.9.1
-- torchtext==0.10.1
-- dask
-- partd
+- Cython
+- matplotlib>=3.2.2
+- numpy>=1.18.5
+- opencv-python>=4.1.2
+- Pillow
+- PyYAML>=5.3
+- scipy>=1.4.1
+- tensorboard>=2.2
+- torch>=1.7.0
+- torchvision>=0.8.1
+- tqdm>=4.41.0
+- seaborn>=0.11.0
 - pandas
-- fsspec==0.3.3
-- scipy
-- sklearn
-
+- thop  # FLOPS computation
+- pycocotools>=2.0  # COCO mAP
 
 
 ### cmd running
